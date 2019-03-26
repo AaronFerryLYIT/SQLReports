@@ -55,6 +55,7 @@
     <DataSource Include="DataSourceLibrary.rds" />
   </ItemGroup>
   <ItemGroup>
+    <Report Include="MemberBorrowedBooksReport.rdl" />
     <Report Include="PublisherReport.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
