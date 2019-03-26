@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SQL_Reports", "SQL_Reports\SQL_Reports.rptproj", "{864DFDCB-2281-4200-9FF4-13D2336D0BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{864DFDCB-2281-4200-9FF4-13D2336D0BB9}.Debug|Default.ActiveCfg = Debug
+		{864DFDCB-2281-4200-9FF4-13D2336D0BB9}.Debug|Default.Build.0 = Debug
+		{864DFDCB-2281-4200-9FF4-13D2336D0BB9}.Debug|Default.Deploy.0 = Debug
+		{864DFDCB-2281-4200-9FF4-13D2336D0BB9}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{864DFDCB-2281-4200-9FF4-13D2336D0BB9}.DebugLocal|Default.Build.0 = DebugLocal
+		{864DFDCB-2281-4200-9FF4-13D2336D0BB9}.Release|Default.ActiveCfg = Release
+		{864DFDCB-2281-4200-9FF4-13D2336D0BB9}.Release|Default.Build.0 = Release
+		{864DFDCB-2281-4200-9FF4-13D2336D0BB9}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A589E839-F9CC-4F65-9E10-B3D7803756E9}
+	EndGlobalSection
+EndGlobal
